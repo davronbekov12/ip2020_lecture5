@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 	<head>
 		<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-		<title>My First Form</title>
+		<title>My phpmyadmin</title>
 		<style>
 			input[type="text"] {
 				background-color: yellow;
-				color: red;
+				color: blue;
 			}
 		</style>
 	</head>
@@ -17,7 +17,7 @@
 			<input type="submit" value="Search" />
 		</form>
 		<hr />
-		<h1>My Custom Form</h1>
+		<h2>My Custom Form</h2>
 		<form action="form_display.php?id=123" method="post" enctype="multipart/form-data">
 			<dl>
 				<dt>Username:</dt>
